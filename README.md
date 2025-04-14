@@ -16,6 +16,8 @@
 
 ## 📌 Schedule Overview
 
+📄 [DSA Course Outline](https://docs.google.com/document/d/1eiFKlLiDhzUNYc-km-xhessyHkLAldWQTiT5BBtLarg/edit?tab=t.0#heading=h.tfzy5znikm47)
+
 **Week 1:** Introduction to DSA, Time & Space Complexity, Arrays  
 **Week 2:** Two Pointers & Binary Search  
 **Week 3:** Linked List & HashMap  
