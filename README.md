@@ -41,6 +41,22 @@
 
 ---
 
+### 📩 Stay Connected
+Stay updated with new lessons, exercises, and challenges.
+You can get in touch with me on my LinkedIn Profile:
+#### Qaisar Abbas
+[![LinkedIn Link](https://img.shields.io/badge/Connect-QaisarAbbas-green.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/qaisar-abbas2024)
+
+🌐 LinkedIn: [My Profile](https://www.linkedin.com/in/qaisar-abbas2024/)
+***
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+Happy Coding! 🚀
+***
+
 > Special thanks to **iCodeGuru**, **Dr. Zafar Shahid**, **Rizwan Ghaffar**, and **Zubair Zafar** for building this incredible learning space.  
 > Grateful to **Ms. Muskaan** for welcoming me into this vibrant community of moderators and trainers.
 
