@@ -26,8 +26,11 @@ This week marks the **foundation of your DSA journey**, covering introductions, 
 
 - 🔹 Strong kickoff with guidance from **Sir Rizwan Ghaffar**, touching on academics and career planning.
 - 🔹 Presentation of [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) mission and structure by **Qaisar Abbas** and **Sir Burhan**.
-- 🔹 Start of core DSA content with **1-D and 2-D arrays**, including operations and practical use.
+- 🔹 Practical problem-solving sessions using real LeetCode examples.
+- 🔹 Covered foundational array operations and transitioned into applying them on competitive coding platforms.
+- 🔹 In-depth session on **Time Complexity**, laying a crucial theoretical base for analyzing algorithms.
 
+---
 ---
 
 📌 *This README will be continuously updated as we proceed through the week.*
