@@ -5,7 +5,7 @@
 
 </div>
 
-# 📘 Week 2 - Master DSA from the Beginning @ [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+# 📘 Week 2 - Master DSA from the Beginning [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
 
 Welcome to **Week 2** of the *Master DSA from the Beginning* journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!  
 This week we further explore problem-solving with optimized techniques and strengthen theoretical concepts like **Time Complexity**, **Two Pointers**, and more.
