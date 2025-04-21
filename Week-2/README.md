@@ -1,0 +1,35 @@
+<div align="center">
+
+![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+</div>
+
+# 📘 Week 2 - Master DSA from the Beginning @ [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+
+Welcome to **Week 2** of the *Master DSA from the Beginning* journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!  
+This week we further explore problem-solving with optimized techniques and strengthen theoretical concepts like **Time Complexity**, **Two Pointers**, and more.
+
+---
+
+## 📅 Schedule Overview (Week 2)
+
+| Date      | Day | Topic                                                                 | Instructor(s)                        | Resources |
+|-----------|-----|------------------------------------------------------------------------|--------------------------------------|-----------|
+| 21-April  | D1  | Big O, log N Run Times, LC. 485, LC.1920, Two Pointers                 | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/watch/?v=4133019323601790&rdid=uXxBvIRcOUu2CBLL)<br>[1920](https://leetcode.com/problems/build-array-from-permutation/) • [485](https://leetcode.com/problems/max-consecutive-ones/) |
+
+---
+
+## ✨ Highlights
+
+- 🔹 Refreshed Big-O and Logarithmic Runtime analysis with live examples.
+- 🔹 Continued practice of foundational problems: **LC 485**, **LC 1920**, and discussed the **Two Pointers** technique.
+- 🔹 Strengthened understanding of efficient array traversal and performance bottlenecks.
+
+---
+
+📌 *This README will be continuously updated as we proceed through the week.*
+
+---
+
+Stay tuned and follow [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) for more updates!
