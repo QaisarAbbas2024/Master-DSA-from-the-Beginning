@@ -16,7 +16,7 @@ This week we further explore problem-solving with optimized techniques and stren
 
 | Date      | Day | Topic                                                                 | Instructor(s)                        | Resources |
 |-----------|-----|------------------------------------------------------------------------|--------------------------------------|-----------|
-| 21-April  | D1  | Big O, log N Run Times, LC. 485, LC.1920, Two Pointers                 | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/watch/?v=4133019323601790&rdid=uXxBvIRcOUu2CBLL)<br>[1920](https://leetcode.com/problems/build-array-from-permutation/) • [485](https://leetcode.com/problems/max-consecutive-ones/) |
+| 21-April  | D1  | Big O, log N Run Times, LC. 485, LC.1920, Two Pointers                 | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/iCodeguru/videos/982451057391124/)<br>[1920](https://leetcode.com/problems/build-array-from-permutation/) • [485](https://leetcode.com/problems/max-consecutive-ones/) |
 
 ---
 
