@@ -19,7 +19,7 @@ This week we further explore problem-solving with optimized techniques and stren
 | 21-April  | D1  | Big O, log N Run Times, LC. 485, LC.1920, Two Pointers                 | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/iCodeguru/videos/982451057391124/)<br>[Two Pointers Approach](https://www.geeksforgeeks.org/two-pointers-technique/)<br>[1920](https://leetcode.com/problems/build-array-from-permutation/) • [485](https://leetcode.com/problems/max-consecutive-ones/) |
 | 22-April  | D2  | LeetCode Problems: <br>• 283. Move Zeroes <br>• 344. Reverse String <br>• 551. Student Attendance Record I | **Sir M. Burhan** | [📹 Recording](https://www.facebook.com/iCodeguru/videos/521517001031144/)<br>[283](https://leetcode.com/problems/move-zeroes/) • [344](https://leetcode.com/problems/reverse-string/) • [551](https://leetcode.com/problems/student-attendance-record-i/) |
 | 23-April  | D3  | Binary Search, LC. 704                                                | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/iCodeguru/videos/1177063607018219/)<br>[704](https://leetcode.com/problems/binary-search/) • 📄 [Binary Search Slides](https://drive.google.com/file/d/1Z61llYOTN7vj-B90LTdLOZTKhCUn6ti5/view?usp=sharing) |
-
+| 24-April  | D4  | LC. 704 (explained), LC. 35, LC. 162                                   | **Sir M. Burhan**                    | [📹 Recording](https://www.facebook.com/iCodeguru/videos/704497542256941/)<br>[704](https://leetcode.com/problems/binary-search/) • [35](https://leetcode.com/problems/search-insert-position/) • [162](https://leetcode.com/problems/find-peak-element/) |
 
 ---
 
