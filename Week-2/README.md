@@ -24,10 +24,11 @@ This week we further explore problem-solving with optimized techniques and stren
 ---
 
 ## ✨ Highlights
-
-- 🔹 Refreshed Big-O and Logarithmic Runtime analysis with live examples.
-- 🔹 Continued practice of foundational problems: **LC 485**, **LC 1920**, and discussed the **Two Pointers** technique.
-- 🔹 Strengthened understanding of efficient array traversal and performance bottlenecks.
+🔹 Refreshed **Big-O** and **Logarithmic Runtime** analysis with live examples.  
+🔹 Continued practice of foundational problems: **LC 485**, **LC 1920**, and discussed the **Two Pointers** technique.  
+🔹 Strengthened understanding of efficient **array traversal** and **performance bottlenecks**.  
+🔹 Explored and implemented **Binary Search** using **LC 704**, and extended concepts with **LC 35** and **LC 162**.  
+🔹 Daily hands-on sessions helped solidify concepts through live problem-solving and Q&A interaction.
 
 ---
 
