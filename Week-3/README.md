@@ -16,8 +16,8 @@ This week, we dive deeper into problem-solving strategies, exploring concepts li
 
 | Date      | Day | Topic                   | Instructor(s)     | Resources |
 |-----------|-----|--------------------------|-------------------|-----------|
-| 28-April  | D1  | Linked List Basics        | **Sir M. Burhan**  | [📹 Recording](https://www.facebook.com/iCodeguru/videos/1333259297901325/) <br>Slides: *To be updated* |
-| 29-April  | D2  | Linked List Functions and Code Blocks             | **Sir M. Burhan**     | [📹 Recording](https://www.facebook.com/iCodeguru/videos/591708290588232/) <br>Slides: [Linked List Colab File](https://colab.research.google.com/drive/1JOeufk4BkKaDHaHHt_WziCu-4K6m_4Wv?usp=sharing) |
+| 28-April  | D1  | Linked List Basics        | **Sir M. Burhan**  | 📹 [Recording](https://www.facebook.com/iCodeguru/videos/1333259297901325/) <br>Slides: *To be updated* |
+| 29-April  | D2  | Linked List Functions and Code Blocks             | **Sir M. Burhan**     | [📹 Recording](https://www.facebook.com/iCodeguru/videos/591708290588232/) <br>📄 [Linked List Colab File](https://colab.research.google.com/drive/1JOeufk4BkKaDHaHHt_WziCu-4K6m_4Wv?usp=sharing) |
 | 30-April  | D3  | *Coming Soon*             | *Coming Soon*     | *Coming Soon* |
 | 01-May    | D4  | *Coming Soon*             | *Coming Soon*     | *Coming Soon* |
 | 02-May    | D5  | *Coming Soon*             | *Coming Soon*     | *Coming Soon* |
