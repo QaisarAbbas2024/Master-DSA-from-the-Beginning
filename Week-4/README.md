@@ -16,7 +16,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 
 | Date      | Day | Topic                    | Instructor(s)     | Resources |
 |-----------|-----|---------------------------|-------------------|-----------|
-| 05-May    | D1  | Data Structure: STACKS, LeetCode: 345         | Muhammad Burhan     | [Recording](https://www.facebook.com/iCodeguru/videos/1008945264638221/) |
+| 05-May    | D1  | Data Structure: STACKS, LeetCode: 345         | Muhammad Burhan     | [Recording](https://www.facebook.com/iCodeguru/videos/1008945264638221/)<br>[LeetCode. 345](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |
 | 06-May    | D2  | *To be added*             | *To be added*     | *To be added* |
 | 07-May    | D3  | *To be added*             | *To be added*     | *To be added* |
 | 08-May    | D4  | *To be added*             | *To be added*     | *To be added* |
