@@ -18,9 +18,9 @@ This week, we continue building our problem-solving muscle with advanced challen
 |-----------|-----|---------------------------|-------------------|-----------|
 | 05-May    | D1  | Data Structure: STACKS, LeetCode: 345         | Muhammad Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1008945264638221/)<br>🔗[LeetCode. 345](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |
 | 06-May    | D2  | LeetCode Problems = LC. 1047, LC. 1544 , LC. 2696             | Muhammad Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/627370270265414/)<br>🔗[LeetCode. 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)<br>🔗[LeetCode. 1544](https://leetcode.com/problems/make-the-string-great/)<br>🔗[LeetCode. 2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) |
-| 07-May    | D3  | *To be added*             | *Instructor To be added*     | *Topic To be added* |
-| 08-May    | D4  | *To be added*             | *To be added*     | *To be added* |
-| 09-May    | D5  | *To be added*             | *To be added*     | *To be added* |
+| 07-May    | D3  | LeetCode Problem = LC. 933             | Muhammad Burhan     | 🔗[LeetCode. 933](https://leetcode.com/problems/number-of-recent-calls/description/) |
+| 08-May    | D4  | *To be added*             | *Instructor To be added*     | *To be added* |
+| 09-May    | D5  | *To be added*             | *Instructor To be added*     | *To be added* |
 
 ---
 
