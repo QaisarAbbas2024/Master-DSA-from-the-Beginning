@@ -26,9 +26,13 @@ This week, we continue building our problem-solving muscle with advanced challen
 
 ## ✨ Highlights
 🔹 Focused deep-dive into Stacks and related LeetCode problems including LC. 345, 1047, 1544, 2696, 933, 2072, 20, and 1545.
+
 🔹 Tackling medium to hard-level LeetCode problems with hands-on explanations and live coding walkthroughs.
+
 🔹 Collaborative instruction by Muhammad Burhan, Qaisar Abbas, and Ahmad Yezdan, ensuring diverse problem-solving approaches.
+
 🔹 Engaging live sessions with interactive discussions, debugging, and solution optimization.
+
 🔹 Strengthening core DSA concepts through real-time LeetCode practice and strategic insights.
 
 ---
