@@ -20,7 +20,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 | 06-May    | D2  | LeetCode Problems = LC. 1047, LC. 1544 , LC. 2696             | Muhammad Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/627370270265414/)<br>🔗[LeetCode. 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)<br>🔗[LeetCode. 1544](https://leetcode.com/problems/make-the-string-great/)<br>🔗[LeetCode. 2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) |
 | 07-May    | D3  | LeetCode Problem = LC. 933             | Muhammad Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1391540472052765/)<br>🔗[LeetCode. 933](https://leetcode.com/problems/number-of-recent-calls/description/) |
 | 08-May    | D4  | LeetCode Problems = LC. 2072, LC. 20             | Muhammad Burhan <br> Qaisar Abbas     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1202544451571195/)<br>🔗[LeetCode. 2073](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)<br>🔗[LeetCode. 20](https://leetcode.com/problems/valid-parentheses/description/) |
-| 09-May    | D5  | LeetCode Problem: 1545             | Ahmad Yezdan*     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/733133449140603/)<br>🔗[LeetCode. 1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) |
+| 09-May    | D5  | LeetCode Problem: 1545             | Ahmad Yezdan    | 📹[Recording](https://www.facebook.com/iCodeguru/videos/733133449140603/)<br>🔗[LeetCode. 1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) |
 
 ---
 
