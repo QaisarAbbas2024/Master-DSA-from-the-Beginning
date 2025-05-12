@@ -12,7 +12,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 
 ---
 
-## 📅 Schedule Overview (Week 4)
+## 📅 Schedule Overview (Week 5)
 
 | Date      | Day | Topic                    | Instructor(s)     | Resources |
 |-----------|-----|---------------------------|-------------------|-----------|
