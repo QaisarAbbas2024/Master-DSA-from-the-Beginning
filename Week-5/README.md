@@ -17,7 +17,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 | Date      | Day | Topic                    | Instructor(s)     | Resources |
 |-----------|-----|---------------------------|-------------------|-----------|
 | 12-May    | D1  | Data Structure: Trees         | Shahzil Imran     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1241994440770089/) |
-| 13-May    | D2  | LeetCode Problems = LC. 1047, LC. 1544 , LC. 2696             | To be added     | 📹[Recording]()<br>🔗[LeetCode. ]()<br>🔗[LeetCode. ]()<br>🔗[LeetCode. ]() |
+| 13-May    | D2  | LeetCode Problem = LC. 144             | Shahzil Imran     | 📹[Recording]()<br>🔗[LeetCode.144](https://www.facebook.com/iCodeguru/videos/3712315475579961/) |
 
 ---
 
