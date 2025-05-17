@@ -1,1 +1,38 @@
-gfdsjkwqsvchdsjkal
+<div align="center">
+
+![Made by Qaisar](https://img.shields.io/badge/Made%20by-Qaisar%20Abbas-blueviolet)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+</div>
+
+# 📘 Week 6 - Master DSA from the Beginning [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
+
+Welcome to **Week 6** of the *Master DSA from the Beginning* journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!  
+This week, we continue building our problem-solving muscle with advanced challenges in **-----------------------------**, and more.
+
+---
+
+## 📅 Schedule Overview (Week 6)
+
+| Date      | Day | Topic                    | Instructor(s)     | Resources |
+|-----------|-----|---------------------------|-------------------|-----------|
+| 19-May    | D1  | Data Structure: ----------         | TRAINER     | 📹[Recording]() |
+| 20-May    | D2  | LeetCode Problem = LC. ----             | TRAINER     | 📹[Recording]()<br>🔗[LeetCode.]() |
+| 21-May    | D3  | LeetCode Problem = LC. 145             | Shahzil Imran     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1886445638791286/)<br>🔗[LeetCode.]() |
+
+
+---
+
+## ✨ Highlights
+🔹 To be added
+
+---
+
+📌 *This README will be continuously updated as more sessions are completed.*
+
+---
+
+Stay tuned and follow [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all) for more updates!
+
+---
+
