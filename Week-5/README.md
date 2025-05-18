@@ -25,7 +25,12 @@ This week, we continue building our problem-solving muscle with advanced challen
 ---
 
 ## ✨ Highlights
-🔹 To be added
+🔹 Deep dived into Tree Traversals, understanding both Preorder (LC 144) and Postorder (LC 145) techniques and their applications.
+🔹 Explored Level Order Traversal with LC 102 and how it differs from depth-first strategies.
+🔹 Practiced problems involving Tree Height Calculation (LC 104) and gained clarity on recursive tree depth functions.
+🔹 Strengthened concepts in Stacks and Valid Parentheses Checking through LC 20.
+🔹 Boosted array manipulation and sorting skills with LC 977 (Squares of a Sorted Array).
+🔹 Engaged in collaborative learning sessions with instructors and peers, enhancing problem-solving efficiency and clarity.
 
 ---
 
