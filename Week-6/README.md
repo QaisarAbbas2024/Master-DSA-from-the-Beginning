@@ -8,7 +8,7 @@
 # 📘 Week 6 - Master DSA from the Beginning [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
 
 Welcome to **Week 6** of the *Master DSA from the Beginning* journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!  
-This week, we continue building our problem-solving muscle with advanced challenges in **-----------------------------**, and more.
+This week, we continue building our problem-solving muscle with advanced challenges in **Data Structure: SORT**, and more.
 
 ---
 
@@ -16,7 +16,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 
 | Date      | Day | Topic                    | Instructor(s)     | Resources |
 |-----------|-----|---------------------------|-------------------|-----------|
-| 19-May    | D1  | Data Structure: ----------         | TRAINER     | 📹[Recording]() |
+| 19-May    | D1  | Data Structure: SORT (Bubble Sort, Insert Sort)         | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1896190564513260/) |
 | 20-May    | D2  | LeetCode Problem = LC. ----             | TRAINER     | 📹[Recording]()<br>🔗[LeetCode.]() |
 | 21-May    | D3  | LeetCode Problem = LC. 145             | Shahzil Imran     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1886445638791286/)<br>🔗[LeetCode.]() |
 
