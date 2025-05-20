@@ -17,7 +17,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 | Date      | Day | Topic                    | Instructor(s)     | Resources |
 |-----------|-----|---------------------------|-------------------|-----------|
 | 19-May    | D1  | Data Structure: SORT (Bubble Sort, Insert Sort)         | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1896190564513260/) |
-| 20-May    | D2  | LeetCode Problem = LC. ----             | TRAINER     | 📹[Recording]()<br>🔗[LeetCode.]() |
+| 20-May    | D2  | LeetCode Problems = LC.              | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/23983946327888740/)<br>🔗[LeetCode.]() |
 | 21-May    | D3  | LeetCode Problem = LC. 145             | Shahzil Imran     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1886445638791286/)<br>🔗[LeetCode.]() |
 
 
