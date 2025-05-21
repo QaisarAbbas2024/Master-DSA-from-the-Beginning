@@ -18,7 +18,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 |-----------|-----|---------------------------|-------------------|-----------|
 | 19-May    | D1  | Data Structure: SORT (Bubble Sort, Insert Sort)         | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1896190564513260/) |
 | 20-May    | D2  | LeetCode Problems = LC.              | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/23983946327888740/)<br>🔗[LeetCode.]() |
-| 21-May    | D3  | LeetCode Problem = LC. 70, 20             | Qaisar Abbas     | 📹[Recording]()<br>🔗[LeetCode.](https://leetcode.com/problems/climbing-stairs/description/)<br>🔗[LeetCode.](https://leetcode.com/problems/valid-parentheses/) |
+| 21-May    | D3  | LeetCode Problem = LC. 70, 20             | Qaisar Abbas     | 📹[Recording]()<br>🔗[LeetCode. 70](https://leetcode.com/problems/climbing-stairs/description/)<br>🔗[LeetCode. 20](https://leetcode.com/problems/valid-parentheses/) |
 
 
 ---
