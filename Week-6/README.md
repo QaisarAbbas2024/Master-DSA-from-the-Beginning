@@ -20,7 +20,7 @@ This week, we continue building our problem-solving muscle with advanced challen
 | 20-May    | D2  | LeetCode Problems = LC.              | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/23983946327888740/)<br>🔗[LeetCode.]() |
 | 21-May    | D3  | LeetCode Problem = LC. 70, 125             | Qaisar Abbas     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/1725183341719778/)<br>🔗[LeetCode. 70](https://leetcode.com/problems/climbing-stairs/description/)<br>🔗[LeetCode. 125](https://leetcode.com/problems/valid-palindrome/description/) |
 | 22-May    | D4  | Data Structure: SORT (Murge Sort, Quick Sort)   | Sir M. Burhan     | 📹[Recording](https://www.facebook.com/iCodeguru/videos/713452454697869/) |
-| 23-May    | D5  | LeetCode Problem = LC. 21, 94, 12   | Mahnoor <br> Qaisar Abbas    | 🔗[LeetCode. 21](https://leetcode.com/problems/merge-two-sorted-lists/)<br>🔗[LeetCode. 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>🔗[LeetCode. 12](https://leetcode.com/problems/integer-to-roman/)<br>📹[Recording](https://www.facebook.com/iCodeguru/videos/623798550685557/) |
+| 23-May    | D5  | LeetCode Problem = LC. 21, 94, 12   | Mahnoor <br> Qaisar Abbas    | 📹[Recording](https://www.facebook.com/iCodeguru/videos/623798550685557/)<br>🔗[LeetCode. 21](https://leetcode.com/problems/merge-two-sorted-lists/)<br>🔗[LeetCode. 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>🔗[LeetCode. 12](https://leetcode.com/problems/integer-to-roman/) |
 
 ---
 
