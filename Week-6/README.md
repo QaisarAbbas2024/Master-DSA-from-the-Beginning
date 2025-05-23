@@ -39,8 +39,6 @@ On Day 5, we concluded the week with a trio of LeetCode problems: **LC 21 (Merge
 
 Week 6 was a perfect culmination of everything we had learned in previous weeks. It tied together key concepts with practical coding, leaving us more confident and prepared to tackle DSA challenges on our own.
 
-Stay connected with @iCodeGuru as we look forward to more learning adventures ahead! 🚀
-
 ---
 
 📌 *This README will be continuously updated as more sessions are completed.*
