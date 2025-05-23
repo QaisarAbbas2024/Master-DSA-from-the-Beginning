@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 </div>
-
+📄 [Course Tracker & Recordings Sheet](https://docs.google.com/spreadsheets/d/1Y1Pht64lLuEIIR05i7f1QcO7RaqbLYG4NxNs1u7eIys/edit?usp=sharing)
 # 📘 Week 6 - Master DSA from the Beginning [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)
 
 Welcome to **Week 6** of the *Master DSA from the Beginning* journey with [@iCodeGuru](https://www.linkedin.com/company/icode-guru/posts/?feedView=all)!  
