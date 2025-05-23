@@ -24,8 +24,22 @@ This week, we continue building our problem-solving muscle with advanced challen
 
 ---
 
-## ✨ Highlights
-🔹 To be added
+## ✨ **Highlights – Week 6**
+The final week of our DSA journey was both enriching and challenging, as we wrapped up with some of the most essential and widely used sorting algorithms, alongside practical problem-solving through LeetCode exercises.
+
+We began the week (Day 1) with **Bubble Sort and Insertion Sort**, expertly taught by **Sir M. Burhan**, who broke down each algorithm step by step, ensuring everyone grasped the underlying concepts and logic.
+
+On Day 2, we transitioned to hands-on practice with **LeetCode problems**, continuing under the guidance of **Sir M. Burhan**. These problems reinforced our understanding of sorting techniques and helped develop a structured approach to coding solutions.
+
+Day 3 brought us two specific LeetCode challenges: **LC 70 (Climbing Stairs)** and **LC 125 (Valid Palindrome)**. These were presented by **Qaisar Abbas**, who explained dynamic programming and string manipulation techniques in detail, enhancing our ability to tackle real-world problems.
+
+We returned to sorting on Day 4 with **Merge Sort and Quick Sort**, again led by **Sir M. Burhan**. His practical insights and examples clarified these more complex recursive algorithms, which are vital for technical interviews and performance-critical applications.
+
+On Day 5, we concluded the week with a trio of LeetCode problems: **LC 21 (Merge Two Sorted Lists)**, **LC 94 (Binary Tree Inorder Traversal)**, and **LC 12 (Integer to Roman)**. These were collaboratively covered by **Mahnoor** and **Qaisar Abbas**, who delivered detailed walkthroughs and discussed various problem-solving strategies.
+
+Week 6 was a perfect culmination of everything we had learned in previous weeks. It tied together key concepts with practical coding, leaving us more confident and prepared to tackle DSA challenges on our own.
+
+Stay connected with @iCodeGuru as we look forward to more learning adventures ahead! 🚀
 
 ---
 
